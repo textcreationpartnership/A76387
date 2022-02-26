@@ -1,0 +1,186 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The remonstrance, or manifest of Sr Thomas Bendysh, Baronet, sent ambassador from King Charles of blessed memory, to the Grand Seignior in Constantinople, anno, 1647 To inform the world, and to remember the governour and Company of Merchants trading into the Levant Seas, of the services he hath done them, and this nation, there; which by their carriage towards him, many of them seem to have forgotten.</title>
+            <author>Bendish, Thomas, Sir, d. ca. 1674.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76387</idno>
+            <idno type="STC">Wing B1867aA</idno>
+            <idno type="STC">ESTC R232482</idno>
+            <idno type="EEBO-CITATION">99898003</idno>
+            <idno type="PROQUEST">99898003</idno>
+            <idno type="VID">171001</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76387)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171001)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2545:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The remonstrance, or manifest of Sr Thomas Bendysh, Baronet, sent ambassador from King Charles of blessed memory, to the Grand Seignior in Constantinople, anno, 1647 To inform the world, and to remember the governour and Company of Merchants trading into the Levant Seas, of the services he hath done them, and this nation, there; which by their carriage towards him, many of them seem to have forgotten.</title>
+                  <author>Bendish, Thomas, Sir, d. ca. 1674.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>anno, 1665]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Bodleian Library, Oxford, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bendish, Thomas, --  Sir, d. ca. 1674 --  Early works to 1800.</term>
+               <term>Great Britain --  Foreign relations --  Turkey --  Early works to 1800.</term>
+               <term>Turkey --  Foreign relations --  Great Britain --  Early works to 1800.</term>
+               <term>Turkey --  History --  1453-1683 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="handwritten_petition">
+            <pb facs="tcp:171001:1"/>
+            <pb n="1" facs="tcp:171001:1" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:171001:2" rendition="simple:additions"/>
+            <pb facs="tcp:171001:3"/>
+            <pb facs="tcp:171001:3" rendition="simple:additions"/>
+            <head>
+               <add>To the Kings Most Exellent Maiesty</add>
+            </head>
+            <opener>
+               <add>The humble Petition of S<hi rend="sup">r</hi>: Thomas Bendysh Baronet Sheweth</add>
+            </opener>
+            <p>
+               <add>That your <abbr>Petit</abbr> was imprisoned in the Tower of London 22 months for Seruing his Maiesty your father of blessed memory in which time his estate was Sequestred &amp; Sufferd much before it Could be released.</add>
+            </p>
+            <p>
+               <add>That Your <abbr>Petit</abbr> Sent 3000.<hi rend="sup">
+                     <abbr>l</abbr>
+                  </hi> 
+                  <abbr>Ster</abbr> to his Ma.<hi rend="sup">tie</hi> in Newcastle in the time of his restraint there, Which was all out of his owne Purs</add>
+            </p>
+         </div>
+         <div type="document">
+            <pb facs="tcp:171001:4"/>
+            <pb n="1" facs="tcp:171001:4" rendition="simple:additions"/>
+            <head>THE REMONSTRANCE, OR MANIFEST OF S<hi rend="sup">r</hi> 
+               <hi>THOMAS BENDYSH,</hi> Baronet, Sent Ambaſſador from King <hi>CHARLES</hi> of Bleſſed Memory, to the <hi>Grand Seignior</hi> in <hi>CONSTANTINOPLE,</hi> Anno, 1647.</head>
+            <head type="sub">To Inform the World, and to Remember the Governour and Company of Merchants trading into the Levant Seas, of the Services he hath done them, and this Nation, there; which by their carriage towards him, many of them ſeem to have forgotten.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Ad not the manifold diſobligations, which ſome of the ſaid Company, in the name of the whole, have laid upon me (ſince it pleaſed his Majeſty to re-call me from that Negotiation) caſt ſome umbrage upon my name and reputation in the eye of the World (which will not eaſily believe ſuch unkindneſſes could come unpro<g ref="char:EOLhyphen"/>voked on my part) I could have eaſily ſat down in ſilence, content with the Conſcience of having diſcharged my Duty therein, as be<g ref="char:EOLhyphen"/>came the honour of a Gentleman, and have imputed their ingrati<g ref="char:EOLhyphen"/>tude and forgetfulneſs to the common chance that attends upon all humane affairs, and eſpecially upon thoſe, that have to do with men, whoſe principles direct them to no higher end then their own profit and advantage.</p>
+            <p>But ſince, to abſolve themſelves from that juſt ſatisfaction they
+<pb n="2" facs="tcp:171001:5"/>ought in honour to make me, they have found out ſo ignoble a way, as not onely to proſecute me with Suits in Chancery, upon feigned pretences of my being their Debtor, but to load me alſo with diſho<g ref="char:EOLhyphen"/>nour and reproach, and to ſtigmatize my name with ſcandals, and crimes of a moſt horrid and odious nature; I find my ſelf ſo farr in<g ref="char:EOLhyphen"/>debted to the honour of my Family, as not to ſuffer the yet unſpot<g ref="char:EOLhyphen"/>ted Reputation thereof (tranſmitted to me by my Anceſtors) to be loſt in me for want of a juſt and neceſſary Vindication.</p>
+            <p>And though I am not apt to glory in mine own actions (holding it for a rule, who boaſts his own good deeds, does in the very act thereof forfeit his reward) yet, if in wiping off that Dirt which hath been thrown upon me, I am forced to recount my Services, with thoſe juſt advantages they have merited (from thoſe at leaſt who have reaped the benefit of them) I hope the candid and ingenious Reader will make a fair Interpretation thereof, by diſtinguiſhing ſo neceſſary a Juſtification, from a vain and empty Boaſting.</p>
+            <p>What the advantage and benefit of the <hi>Turkie</hi> Trade hath hereto<g ref="char:EOLhyphen"/>fore been, and now again is (not onely to this Nation in general, but more particularly to the <hi>Levant</hi> Company) is not unknown to any who have conſidered how many thouſand Woollen Cloths (the Staple Manufacture of this Kingdom) are yearly exported from hence thither, and what vaſt returns thereof are made from thence in Raw Silk, Cotton Woolls, Cotton Yarn, Grogerin Yarn, and other like Commodities, upon the converſion of which into Ma<g ref="char:EOLhyphen"/>nufacture, ſo many thouſands of his Majeſties Subjects are daily ſet on work, and thereby enabled to maintain themſelves and families. But in how low and unſettled a Condition I found this Trade at my arrival in <hi>Conſtantinople,</hi> and how flouriſhing I left it, at the end of my well-neer fourteen years Negotiation, ſince ſome of the ſaid Company have ſo willingly, and unworthily forgotten, I muſt crave leave to put them in mind thereof, that by comparing the difference, they may be convinced (if it be poſſible) of their own ingratitude, and the World inform'd of their injuſtice towards me. Wherein yet I would be underſtood, not to reflect upon all the Members of this Society, knowing many of them to be Perſons of much honour and worthineſs, and ſuch as wholly diſlike the proceedings of the reſt; I call therefore to thoſe others to remember;</p>
+            <p>That ſome time before my arrival, the Fence and Security of all their priviledges (founded upon former Treaties and Capitulations
+<pb n="3" facs="tcp:171001:5" rendition="simple:additions"/>between the Crown of <hi>England</hi> and the <hi>Grand Seignior</hi>) had been thrown down and trodden under foot: And that the report of that unnatural Fire which was then burning in <hi>England</hi> (being kindled by Rebells againſt their natural Prince) had rendred the <hi>Engliſh,</hi> without diſtinction, odious, and contemptible, even in all parts of the World where they reſided, eſpecially in <hi>Conſtantinople;</hi> of which the <hi>Vizier,</hi> (the great <hi>Miniſter,</hi> and ſole <hi>Governour</hi> of the Empire) taking advantage, and looking upon the <hi>Engliſh</hi> Nation, as men with whom no faith was to be kept, willingly ſuffered all manner of depredations to be done unto the Reſiders there.</p>
+            <p>And hence it was, that at my arrival, I ſound the Factory in ſo great diſorder, and confuſion, as that their goods and merchandize were, by <hi>Turkiſh</hi> violence, frequently torn from them by the <hi>Vizier</hi> himſelf, and other Officers, not onely out of their Ships, and Veſſels, but out of their very Houſes too, without price, or hope of payment; their perſons affronted, reviled, yea, and kick'd in the very ſtreets, their Mariners beaten aboard their Ships, and nothing wanting to make them perfectly miſerable, but captivity it ſelf; and that which aggravated all theſe calamities, was, that it admitted of no redreſs or cure, but by the ſame hand that was the cauſe of all their grie<g ref="char:EOLhyphen"/>vances, even the <hi>Vizier</hi> himſelf.</p>
+            <p>To him therefore (after advice, and counſell with the Factory, though hopeleſs of any good ſucceſs) I made my application, en<g ref="char:EOLhyphen"/>deavouring by all fair means (for there was no other then to be offer'd at) to make him ſenſible of the wrongs done, and to obtain juſtice, and ſatisfaction, for the goods taken away, as aforeſaid.</p>
+            <p>Now, ſo far was he from granting my deſire (though making many fair promiſes, and proteſtations, at the firſt) that in fine, I receiv'd no other Anſwer, then a flat and peremptory Denyal, and, inſtead of reſtitution, a demand of our Ships (being ſeven in num<g ref="char:EOLhyphen"/>ber) to ſerve the <hi>Grand Seignior</hi> againſt the <hi>Venetians;</hi> and to ſhew that he was in good earneſt, command was then immediately given by him to the Captain <hi>Baſſa,</hi> to force them into the ſaid ſer<g ref="char:EOLhyphen"/>vice the next morning; moſt of them being then laden, and ready for departure.</p>
+            <p>This being the ſtate of affairs in this juncture of time, I ſhall deſire the Company (if at leaſt they have any ſenſe of honour, or any gratefull remembrance of the courſe I took then, with the de<g ref="char:EOLhyphen"/>ſperate hazard of my life, and all that was dear to me, to extricate
+<pb n="4" facs="tcp:171001:6"/>them out of this labyrinth) to look back, and call to mind the great danger which hung over their Factors heads, and their own eſtates, being then deprived both of Ships to ſupply their Trade, and of goods to trade with; and to conſider what they then, or their Factors were able to have done, ſave to lament their loſſes, and ſtand as ſo many Ciphers to make the accompt of their miſeries the greater? had not the providence of God directed me to a courſe no leſs deſperate then their condition, and made me therein ſucceſsfull.</p>
+            <p>The <hi>Vizier,</hi> as much incenſed as the haughtineſs and avarice of an enraged <hi>Barbarian</hi> could make him, and therefore not at all to be dealt with; The <hi>Grand Seignior</hi> himſelf inacceſſible, but by, and through his means: In this extremity of their condition, what was now to be done, but to make my publick Appeal unto the <hi>Gr. Seignior</hi> with fire upon our Ships? (a courſe as hazardous, as it was rare and unuſual) But the honour of the King my Maſter, under whoſe Commiſſion I was, the intereſt of the <hi>Engliſh</hi> Nati<g ref="char:EOLhyphen"/>on, and, in particular, of the <hi>Turkie Company,</hi> together with mine own Reputation lying at ſtake, I made no difficulty to break through all conſiderations of danger, and to make my Appeal againſt the <hi>Vizier,</hi> in the form before mentioned.</p>
+            <p>Which (to let paſs the paſſages in the managery thereof, leſt I ſhould be thought to glory in mine own actions) took its deſired effect, and was the means of reſtoring the Factory, in leſs then two days, to the full height of their Privileges, honour, and eſtate, and that in a greater ſplendour then ever they formerly enjoy'd them; for thereupon, the Ships were releaſed from the <hi>Grand Seignior</hi>'s ſervice, the Cuſtoms which, before my time, had been raiſed from three to ſix <hi>per Cent.</hi> were reduced again to three; ten thouſand Dollers were brought in ready mony into the Ships, to<g ref="char:EOLhyphen"/>wards the ſatisfaction of thoſe goods the <hi>Vizier</hi> had taken away, and ſecurity given for what remain'd unpaid; debts, old and de<g ref="char:EOLhyphen"/>ſperate, due to the Company from <hi>Jews</hi> and others, before my time, were by the power of the <hi>Vizier</hi> (who then ſaw himſelf in<g ref="char:EOLhyphen"/>dangered by the Appeal) forced to be ſatisfied, and all poſſible aſſurance given, that we ſhould be civilly treated in the future, and that the Capitulations ſhould be inviolably preſerv'd: And thus far they have been as as good as their words, that from the day of their promiſe to the time I left <hi>Conſtantinople,</hi> they never attempted to take by force any goods whatever, either from our Ships, or Merchants houſes, which before was uſual.</p>
+            <pb n="5" facs="tcp:171001:6" rendition="simple:additions"/>
+            <p>And however the memory of this eminent Service (pardon the expreſſion) comes to be obliterated, yet, as it pleaſed his late Majeſty, of ever bleſſed memory, to own it in a Letter to me from <hi>the Iſle of Wight,</hi> and, in his royal ſenſe of my Service therein, to honour that action with the title of <hi>a Diſcreet and ſtout behaviour;</hi> ſo time was, when this very Company (who now blaſt my Reputation with ſo much violence, and ſo little cauſe) were not backward to acknowledge it in a Letter, ſent to their Factory in <hi>Conſtantinople.</hi>
+            </p>
+            <p>Wherein their words were, That, <hi>they were onely ſorry that their preſent condition was ſuch, as made them unable to remunerate my care according to my merit, which yet they hoped they might in time be in a capacity to do.</hi> Which, how far they have been mindfull of, I leave to the World to judge, when I ſhall have inform'd them, that to blot out the memory of this obligation (which they have not honour enough to recompenſe) they have unjuſtly loaded me with diſgrace, and, in their malicious Bills, exhibited againſt me in the <hi>Chancery,</hi> have taxed me on Record, with breach of Truſt, Confederacy againſt them, and Converſion of their monies to my own uſe, though they know themſelves not able to make good one particle of that Charge, or that I ever touch'd one penny of their money.</p>
+            <p>But this is not the only Service for which they have made me re<g ref="char:EOLhyphen"/>compence in this coin; they may pleaſe to call to mind, that I (not ſatisfy'd in having reſtored them by the means aforeſaid, to their old Privileges, and therewith to their Eſtates, their Ships &amp; Trade) ſtill went on obtaining new ones, and ſtrengthening the old. To which end, after the horrid murther committed upon his late Ma<g ref="char:EOLhyphen"/>jeſty (that I might not in the leaſt meaſure ſeem to comply with thoſe execrable Uſurpers) I renew'd the Capitulations in the name of his preſent Majeſty King <hi>Charles</hi> the ſecond, to the no ſmall danger of my life the ſecond time, being for it accuſed in <hi>England</hi> of high Treaſon againſt the then pretended State; and to thoſe renewed Ca<g ref="char:EOLhyphen"/>pitulations, I procured the <hi>Grand Seignior</hi>'s own hand (called the <hi>Hatſheriff</hi>) an honour and ſecurity never granted before, nor ſince, to any <hi>Chriſtian</hi> Emperor, King, or State whatever in way of Trade; and in the renewing of them, I gain'd an addition of ſuch Privileges, as might any ways advantage the Trade, or ſecure the Factories, and in particular, ſeveral clauſes againſt the Cuſtomers of <hi>Aleppo,</hi> for
+<pb n="6" facs="tcp:171001:7"/>taking Cuſtoms upon moneys, and raw Silk; the aboliſhing of which exaction, hath ſaved many thouſand pounds in the Companies Purſe.</p>
+            <p>It was by my means and negotiation, that the Companies eſtate was diſcharg'd from a Fine laid upon it in <hi>Aleppo</hi> of 10000 <hi>l.</hi> It was by Gods bleſſing upon my endeavours, that (without expence to the Company, the <hi>Grand Seignior</hi> was pacify'd touching that great affront put upon him by <hi>Blake</hi> in battering his Caſtles, and ſinking eight of his Ships in <hi>Farine</hi> (a Harbor near <hi>Tunis</hi>) for which otherwiſe, he would, no doubt, have ſeized on the eſtate in the Countrey, as formerly upon leſs provocation he hath done, and as the Company then feared, could not be prevented. It was by my induſtry, and with much labour and patience, that I wrought out by degrees, and obtain'd for them that advantageous Privilege whereof the Merchants of no Nation but ours have the benefit at this day; <hi>viz.</hi> That no <hi>Engliſh</hi> man ſhall be condemned upon any pretence of debt laid upon him by the teſtimony either of <hi>Turks, Jews,</hi> or <hi>Chriſtians,</hi> but what he had himſelf acknowledg'd be<g ref="char:EOLhyphen"/>fore a <hi>Cadde,</hi> or Judge, in writing. By vertue of this Privilege I de<g ref="char:EOLhyphen"/>fended the Companies eſtates againſt all falſe pretences or Avaneas, and eſpecially at <hi>Smyrna,</hi> againſt the pretence of 75000 <hi>l.</hi> ſterling, demanded of them by one <hi>Halillaga</hi> a <hi>Turk</hi> of great power with the <hi>Vizier,</hi> becauſe he was with his treaſure, together with 120 of the <hi>Grand Seignior</hi>'s Subjects, delivered up to the <hi>Venetians</hi> by a Commander of one of our Ships. And in another caſe I ſatisfied the <hi>Grand Seignior</hi>'s demand of above twenty thouſand pounds more, with a few rotten and decayed Goods, and leſs then 4000 <hi>l.</hi> in money, for certain proviſions of his (which one <hi>Ell,</hi> another <hi>Engliſh</hi> Commander, ran away with from <hi>Alexandria</hi> to <hi>Legorn.</hi>) Moreover, by timely finding out and preventing a falſe pretence made by the Cuſtomer of <hi>Aleppo</hi> to the <hi>Baſſa,</hi> and by him recommended to the <hi>Vizier</hi> (who had allow'd of it) I ſaved the Factory there from an intended ſeizure upon all their eſtates, under pretence of arrears of Cuſtomes (many years due) for Silk &amp; money.</p>
+            <p>Unto which I may juſtly add, as not the leaſt of thoſe Services I did the Company in the time of my Negotiation (which with the reſt, they have wholly forgot) that I reduced the annual expences of the Port of <hi>Conſtantinople</hi> from 25. and 30000. Dollers (which it was at before my time) to 20000. Dollers <hi>per annum</hi> onely; which of it ſelf may ſufficiently anſwer thoſe vaſt and unjuſt pretences they
+<pb n="7" facs="tcp:171001:7"/>make upon me; for, if their expences in the general have (by my fru<g ref="char:EOLhyphen"/>gality for them) been made leſs by many thouſands of Pounds, then what they were before my time; how is it poſſible, or from whence can it ariſe, that I ſhould wrong them in any part of their Eſtate? Moreover, had I really done them any kind of injury, how untruly did their own mouths aſſure his Sacred Majeſty of my honeſt and juſt dealings with them, when they for that Cauſe ſo earneſtly peti<g ref="char:EOLhyphen"/>tioned Him for my longer ſtay in <hi>Turkie.</hi> Yet, what honeſty ſo up<g ref="char:EOLhyphen"/>right, or reputation ſo cleer, that may not be abuſed by ſuch, as neither regard their words, examine their Conſciences, nor value their expences, which they impoſe on every trading Member of their Company, how averſe ſoever he be to their proceedings.</p>
+            <p>What I did in right of the Kings Majeſty, by whoſe onely Com<g ref="char:EOLhyphen"/>miſſion, and in whoſe Name, I reſided there (without accepting any Commiſsion or Authority from any of thoſe uſurping Powers then in <hi>England</hi>) and how farr I inſiſted to ſupport his Majeſties Honour and Intereſt in <hi>Turkie,</hi> during my Negotiation, I ſhall not reckon among my Services done to the Company, being lead to thoſe per<g ref="char:EOLhyphen"/>formances by the more powerfull obligation of my duty, and alle<g ref="char:EOLhyphen"/>giance, and not from any other reſpects whatſoever, which were but ſecundary, and ſubſervient; neither was it then looked upon by them, as any ſervice at all (but rather the contrary) when, with the great expence of my private Eſtate and Purſe, I prevailed ſo farr with ſome of the Miniſters of thoſe uſurping Powers, as to prevent the ſending of two or three perſons to <hi>Conſtantinople</hi> with <hi>Oliver</hi>'s Commiſsion, whom the Company had choſen in their Courts to ſup<g ref="char:EOLhyphen"/>plant me. Likewiſe I did oppoſe, and diſmiſs from <hi>Conſtantinople,</hi> one called Major <hi>Lawrence,</hi> whom they ſent thither with the like Commiſsion to ſuperſede and make null that of his Majeſties. And I have no ſlender grounds to believe, that the true, and ſecret cauſe of their ſo unjuſt proſecutions at this time, is, the revenge they me<g ref="char:EOLhyphen"/>ditate againſt me for thoſe very actions.</p>
+            <p>But it ſufficeth me, that as againſt all their malicious darts I have the witneſs of a good Conſcience within me, ſo I hope I am able to make it appear to all the world without, that I have in all my proceedings demean'd my ſelf carefully, honeſtly, and uprightly towards them, and not onely ſo, but, in ſome ſort, have ſuperarro<g ref="char:EOLhyphen"/>gated, by augmenting their Privileges, preſerving their Eſtates, and Perſons, from many threatning dangers, and have ſaved and pro<g ref="char:EOLhyphen"/>cured
+<pb n="8" facs="tcp:171001:8"/>them, through my care and pains, many hundred thouſand Dollers in their Purſes, having, in the mean time, worn out and con<g ref="char:EOLhyphen"/>ſumed the beſt part of my time and ſtrength, without any advantage to my ſelf or family.</p>
+            <p>To ſumm up all, I found at my arrival, that the ſwelling Torrent of <hi>Turkiſh</hi> Juſtice had, in a manner, drowned all their Intereſt of Trade and Commerce there; to reduce which, and to confine it within its proper Channel, coſt me neer ſeven years perpetual labour and pains, with the expence of many thouſand pounds extraor<g ref="char:EOLhyphen"/>dinary out of mine own Purſe (of which I never placed one penny to their Accompt) and having by this means fortified the banks, and ſo kept them, for the ſpace of ſeven years more from any ſuch like inundation, the Channel of their Privileges is now worn ſo deep, and runs ſo cleer, that it is a thing almoſt impoſsible, the like ſhould ever break out again.</p>
+            <p>After all which, to be branded by them with the odious Character of a Truſt-breaker, and Confederate againſt them; to be unjuſtly charged with converſion of their Treaſure to my private and extra<g ref="char:EOLhyphen"/>vagant expences, and to be violently proſecuted as their Debtor, at the ſame time, when, upon a juſt and equal accompt, they owe me (beſide what before mention'd) above a thouſand pounds for ſo much paid me ſhort of their agreement with me in the weight and value of their Dollers; and the reſult of all, to be the murthering of my Name and Reputation, thereby to render me contemptible, and incapable of all future Truſt and Imployment; I appeal to all the World, who have the leaſt ſenſe of Honour, and Juſtice in them, whether theſe are not injuries above all poſsibility of ſatisfaction? and whether, by ſo igno<g ref="char:EOLhyphen"/>minious an ingratitude, they do not loudly tell the World, what re<g ref="char:EOLhyphen"/>compence all thoſe perſons, who ſhall hereafter receive the honour to be imploy'd by his Majeſty in the ſame Negotiation, muſt expect at their hands, for all the Services they can, or ſhall endeavour to do them?</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed, <hi>Anno,</hi> 1665.</p>
+            <pb facs="tcp:171001:8"/>
+         </div>
+      </back>
+   </text>
+</TEI>
